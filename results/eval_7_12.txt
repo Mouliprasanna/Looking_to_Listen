@@ -1,0 +1,2 @@
+sdr, sdr_mixed, sdr - sdr_mixed, sir, sar
+0.999836 0.105482 0.894354 1.368528 14.282137
